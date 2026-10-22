@@ -1,0 +1,6 @@
+# Credenciais da base de dados
+/config/database.php
+
+# Uploads dos utilizadores
+/uploads/*
+!/uploads/.gitkeep
